@@ -1,0 +1,257 @@
+{
+  "basics": {
+    "name": "Pedro Miguel Arguelles Ortiz",
+    "label": "Full Stack Developer con más de 4 años de experiencia",
+    "image": "/me.png",
+    "email": "pedroarguelles1996@gmail.com",
+    "phone": "+58 4127656433",
+    "url": "https://midu.dev",
+    "summary": "+4 años de experiencia como Desarrollador Web. Vivo en Falcón, Venezuela. Soy un Full Stack Developer con más de 4 años de experiencia en el desarrollo de aplicaciones web. Mi enfoque principal es crear soluciones interactivas que mejoren la experiencia del usuario. He trabajado en diversos proyectos, desde redes sociales hasta sistemas de administración y aplicaciones de salud.",
+    "location": {
+      "address": "",
+      "postalCode": "4101",
+      "city": "Falcón",
+      "countryCode": "ES",
+      "region": "Venezuela"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "miguelortis",
+        "url": "https://www.linkedin.com/in/pedro-arguelles-451835179/"
+      },
+      {
+        "network": "GitHub",
+        "username": "miguelortis",
+        "url": "https://github.com/miguelortis"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Dev Navigate",
+      "position": "Desarrollador Full Stack",
+      "url": "https://www.devnavigate.com/",
+      "startDate": "2022-06-01",
+      "endDate": "2024-10-30",
+      "summary": "Trabajé como desarrollador full stack en esta empresa dedicada al desarrollo de software, implementando las últimas tecnologías y tendencias de diseño, soporte, consultorías especializadas y metodologías ágiles. Durante este período, utilicé tecnologías como Vue.js, React.js, Redux, JavaScript, WebSocket y Material UI, Vuex, Pinia, Node.js, Express.js, MongoDB, TypeScript, entre otras."
+    },
+    {
+      "name": "Only Voyer",
+      "position": "Desarrollador Full Stack",
+      "url": "https://www.jirka.co/",
+      "startDate": "2021-10-01",
+      "endDate": "2022-04-15",
+      "summary": "Trabajé como freelance desarrollando una red social desde cero, desempeñándome como Desarrollador Full Stack. Me encargué de crear tanto el front end (inicio de sesión, panel de control, chats, publicaciones, comentarios, perfil, etc.) como el back end. Las tecnologías utilizadas incluyen: Next.js, Zustand, React Icons, Tailwind CSS, WebSocket, TypeScript, JavaScript, NestJS, MongoDB, JWT, entre otras."
+    },
+    {
+      "name": "Jirka IT Solutions",
+      "position": "Desarrollador Front-End",
+      "url": "https://www.jirka.co/",
+      "startDate": "2021-03-30",
+      "endDate": "2021-08-15",
+      "summary": "Trabajé como desarrollador Front-End en una institución dedicada al desarrollo de software y servicios IT, implementando las últimas tecnologías y tendencias de diseño, soporte, consultorías especializadas y metodologías ágiles. Estas prácticas permitieron ofrecer soluciones integrales e innovadoras con altos estándares de calidad. Durante este período, utilicé tecnologías como Vue.js, Vuex, Pinia, React.js, Zustand, JavaScript, WebSocket y Material UI, entre otras."
+    },
+    {
+      "name": "Branak",
+      "position": "Desarrollador Full Stack (MERN)",
+      "url": "https://www.branak.com/",
+      "startDate": "2020-10-01",
+      "endDate": "2021-03-30",
+      "summary": "Trabaje como full stack en esta pagina web dedicada a las clases de ingles online, el cual posee salas de clases con video llamadas y pizarras echas con canvas donde se puede escribir agregar imagenes, garabatos entre otras cosas, para poder explicar la clase. Tambien posee chat en la sala y chat publico, panel administrativo y muchas cosas mas. tecnologias utilizadas: nextjs, redux, Javascript, material UI, style components, webSockets, nodejs, expressjs, mongodb, aws, api google map. Aquí tienes el texto mejorado: Trabajé como desarrollador Full Stack en una plataforma de clases de inglés en línea. Esta página web incluye salas de clases con videollamadas y pizarras interactivas hechas con canvas, permitiendo a los usuarios escribir, agregar imágenes y garabatos para facilitar la enseñanza. Además, cuenta con un chat dentro de la sala y un chat público, así como un panel administrativo y muchas otras funcionalidades. Tecnologías utilizadas: Next.js, Redux, JavaScript, Material UI, Styled Components, WebSockets, Node.js, Express.js, MongoDB, AWS y Google Maps API.."
+    },
+    {
+      "name": "Fondo de Mutualidad UNEFM (FMUNEFM)",
+      "position": "Desarrollador Full Stack (MERN)",
+      "url": null,
+      "startDate": "2018-06-12",
+      "endDate": "2020-09-01",
+      "summary": "Desarrollé el sistema administrativo de salud para el Fondo Mutual de la Universidad Nacional Experimental Francisco de Miranda, donde pude aplicar y expandir mis conocimientos. Este sistema incluye funcionalidades clave como el inicio de sesión de usuarios, un panel administrativo integral, gestión de planes de póliza para titulares y beneficiarios, inventario de farmacia y equipos médicos, y un sistema de citas para consultas de emergencia, generales y con especialistas, entre otros aspectos. Para este proyecto, utilicé diversas tecnologías, incluyendo Next.js, TypeScript, Styled Components, Tailwind CSS, Material UI, Redux, Framer Motion, JavaScript, Node.js, Express.js, MongoDB, Mongoose, WebSocket y Node Cron."
+    },
+    {
+      "name": "Universidad Nacional Experimental Francisco de Miranda (UNEFM)",
+      "position": "Técnico de Informática (TI)",
+      "url": "https://unefm.net/inicio/",
+      "startDate": "2015-01-10",
+      "endDate": "2018-06-12",
+      "summary": "Lidere el departamento de informatica, estuve a cargo de garantizar que las computadoras y redes funcionaran de manera eficiente (instalar, configurar, reparar y mantener el hardware y software de los sistemas informáticos de la institución). "
+    }
+  ],
+  "education": [{
+    "institution": "E. T. I. Madre Mazzarello",
+    "url": null,
+    "area": "Tecnico Medio Electronica",
+    "startDate": "2008-10-01",
+    "endDate": "2014-08-01"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Vue",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Nest",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Servidor"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Only Voyer",
+      "isActive": true,
+      "description": "Sitio web (red social) ofrece contenido exclusivo, proporcionando a los creadores una plataforma para compartir su material único e interactuar con sus seguidores más fieles.",
+      "highlights": [
+        "Full Stack Developer",
+        "React",
+        "Next.js",
+        "Framer Motion",
+        "Node.js",
+        "Nest.js",
+        "Express.js",
+        "Passport.js",
+        "Socket.io",
+        "MongoDB",
+        "Tailwind"
+      ],
+      "url": "https://social-network-app-eta.vercel.app/login",
+      "github": "https://github.com/miguelortis/social_network_app"
+    },
+    {
+      "name": "Test Chat",
+      "isActive": true,
+      "description": "Un chat público tipo red social donde puedes conectar con personas de cualquier parte del mundo. Además, puedes agregar tu nombre y foto de perfil temporales sin necesidad de registrar una cuenta.",
+      "highlights": [
+        "React.js",
+        "JavaScript",
+        "Socket.io",
+        "Node.js",
+        "Express.js",
+        "Material UI"
+      ],
+      "url": "https://test-chat-swart.vercel.app/chat",
+      "github": "https://github.com/miguelortis/test-chat"
+    },
+    {
+      "name": "Fondo de Mutualidad",
+      "isActive": true,
+      "description": "Sistema para la institución Fondo Mutual de la Universidad Nacional Experimental Francisco de Miranda.",
+      "highlights": [
+        "React.js",
+        "Redux",
+        "Node.js",
+        "Material UI",
+        "Express.js",
+        "MongoDB"
+      ],
+      "url": "https://fmunefm.vercel.app/",
+      "github": "https://github.com/miguelortis/fm_unefm"
+    },
+    {
+      "name": "Gestion de Proyectos",
+      "isActive": true,
+      "description": "Aplicación para gestionar proyectos: incluye funciones para agregar tareas, cambiar estados y más.",
+      "highlights": [
+        "Vue.js",
+        "Pinia",
+        "JavaScript"
+      ],
+      "url": "https://project-management-chi-eight.vercel.app/",
+      "github": "https://github.com/miguelortis/-project-management"
+    }
+  ]
+}
