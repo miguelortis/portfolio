@@ -58,7 +58,7 @@
       "url": "https://www.branak.com/",
       "startDate": "2020-10-01",
       "endDate": "2021-03-30",
-      "summary": "Trabaje como full stack en esta pagina web dedicada a las clases de ingles online, el cual posee salas de clases con video llamadas y pizarras echas con canvas donde se puede escribir agregar imagenes, garabatos entre otras cosas, para poder explicar la clase. Tambien posee chat en la sala y chat publico, panel administrativo y muchas cosas mas. tecnologias utilizadas: nextjs, redux, Javascript, material UI, style components, webSockets, nodejs, expressjs, mongodb, aws, api google map. Aquí tienes el texto mejorado: Trabajé como desarrollador Full Stack en una plataforma de clases de inglés en línea. Esta página web incluye salas de clases con videollamadas y pizarras interactivas hechas con canvas, permitiendo a los usuarios escribir, agregar imágenes y garabatos para facilitar la enseñanza. Además, cuenta con un chat dentro de la sala y un chat público, así como un panel administrativo y muchas otras funcionalidades. Tecnologías utilizadas: Next.js, Redux, JavaScript, Material UI, Styled Components, WebSockets, Node.js, Express.js, MongoDB, AWS y Google Maps API.."
+      "summary": "Trabajé como desarrollador Full Stack en una plataforma de clases de inglés en línea. Esta página web incluye salas de clases con videollamadas y pizarras interactivas hechas con canvas, permitiendo a los usuarios escribir, agregar imágenes y garabatos para facilitar la enseñanza. Además, cuenta con un chat dentro de la sala y un chat público, así como un panel administrativo y muchas otras funcionalidades. Tecnologías utilizadas: Next.js, Redux, JavaScript, Material UI, Styled Components, WebSockets, Node.js, Express.js, MongoDB, AWS y Google Maps API.."
     },
     {
       "name": "Fondo de Mutualidad UNEFM (FMUNEFM)",
@@ -149,21 +149,21 @@
       ]
     },
     {
-      "name": "React",
+      "name": "React.js",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
-      "name": "Vue",
+      "name": "Vue.js",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
-      "name": "Nest",
+      "name": "Nest.js",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
@@ -181,6 +181,97 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Backend", "Servidor"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Servidor"
+      ]
+    },
+    {
+      "name": "Pinia",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Vuex",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Socket.io",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Frontend", "Servidor"
+      ]
+    },
+    {
+      "name": "Figma",
+      "level": "Avanzado",
+      "keywords": [
+         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "React-Context",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Material UI",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Ant Desing",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Framer Motion",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "React-Bootstrap",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Redux",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Zustand",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Google APIs",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
