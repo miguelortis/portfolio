@@ -39,7 +39,7 @@
     {
       "name": "Only Voyer",
       "position": "Desarrollador Full Stack",
-      "url": "https://www.jirka.co/",
+      "url": "https://social-network-app-eta.vercel.app/",
       "startDate": "2021-10-01",
       "endDate": "2022-04-15",
       "summary": "Trabajé como freelance desarrollando una red social desde cero, desempeñándome como Desarrollador Full Stack. Me encargué de crear tanto el front end (inicio de sesión, panel de control, chats, publicaciones, comentarios, perfil, etc.) como el back end. Las tecnologías utilizadas incluyen: Next.js, Zustand, React Icons, Tailwind CSS, WebSocket, TypeScript, JavaScript, NestJS, MongoDB, JWT, entre otras."
