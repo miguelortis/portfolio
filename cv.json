@@ -331,18 +331,6 @@
       ],
       "url": "https://fmunefm.vercel.app/",
       "github": "https://github.com/miguelortis/fm_unefm"
-    },
-    {
-      "name": "Gestion de Proyectos",
-      "isActive": true,
-      "description": "Aplicación para gestionar proyectos: incluye funciones para agregar tareas, cambiar estados y más.",
-      "highlights": [
-        "Vue.js",
-        "Pinia",
-        "JavaScript"
-      ],
-      "url": "https://project-management-chi-eight.vercel.app/",
-      "github": "https://github.com/miguelortis/-project-management"
     }
   ]
 }
