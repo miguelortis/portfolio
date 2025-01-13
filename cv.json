@@ -77,202 +77,171 @@
       "summary": "Lidere el departamento de informatica, estuve a cargo de garantizar que las computadoras y redes funcionaran de manera eficiente (instalar, configurar, reparar y mantener el hardware y software de los sistemas informáticos de la institución). "
     }
   ],
-  "education": [{
-    "institution": "E. T. I. Madre Mazzarello",
-    "url": null,
-    "area": "Tecnico Medio Electronica",
-    "startDate": "2008-10-01",
-    "endDate": "2014-08-01"
-  }],
+  "education": [
+    {
+      "institution": "E. T. I. Madre Mazzarello",
+      "url": null,
+      "area": "Tecnico Medio Electronica",
+      "startDate": "2008-10-01",
+      "endDate": "2014-08-01"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React.js",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Vue.js",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Nest.js",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "Astro",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "MongoDB",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
     },
     {
       "name": "Express.js",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
     },
     {
       "name": "Pinia",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Vuex",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Socket.io",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "Frontend", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "Frontend", "Servidor"]
     },
     {
       "name": "Figma",
       "level": "Avanzado",
-      "keywords": [
-         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "React-Context",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Material UI",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Ant Desing",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Framer Motion",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "React-Bootstrap",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Redux",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Zustand",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Google APIs",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -316,6 +285,14 @@
       ],
       "url": "https://test-chat-swart.vercel.app/chat",
       "github": "https://github.com/miguelortis/test-chat"
+    },
+    {
+      "name": "Tienda Online",
+      "isActive": true,
+      "description": "Tienda en línea que ofrece una amplia gama de productos, desde ropa y accesorios hasta productos electrónicos y de belleza.",
+      "highlights": ["Vue.js", "Pinea", "Vuetify", "Typescript"],
+      "url": "https://online-store-miguelortis-projects.vercel.app/",
+      "github": "https://github.com/miguelortis/online-store"
     },
     {
       "name": "Fondo de Mutualidad",
