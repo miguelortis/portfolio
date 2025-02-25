@@ -292,6 +292,14 @@
       "github": "https://github.com/miguelortis/test-chat"
     },
     {
+      "name": "Sistema de Evaluación",
+      "isActive": true,
+      "description": "Sistema para crear evaluaciones a empleados con formulario dinamico.",
+      "highlights": ["MongoDB", "Express", "React", "Node", "Ant Desing"],
+      "url": "https://evaluation-system.vercel.app/sign-in",
+      "github": "https://github.com/miguelortis/evaluation_system"
+    },
+    {
       "name": "Tienda Online",
       "isActive": true,
       "description": "Tienda en línea que ofrece una amplia gama de productos, desde ropa y accesorios hasta productos electrónicos y de belleza.",
